@@ -4,4 +4,5 @@ A comprehensive guide and best practices for using, implementing, deploying, and
 2. Deployment
 3. Usage
 4. Maintenance
-5. How to do this for secuirty!
+
+ Finally, there is an additional 5th repo on specifically how to fine tune these procedures for cybersecuirty.
